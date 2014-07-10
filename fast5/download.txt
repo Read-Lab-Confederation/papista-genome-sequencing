@@ -1,0 +1,4 @@
+Currently the FAST5 files are not available through GitHub (file 
+size limits), we will work finding a host for these files. In the 
+mean time, if you are interested in these files please contact 
+myself (robert.petit@emory.edu) or Dr. Tim Read (tread@emory.edu).

@@ -15,3 +15,6 @@ To date there has been no whole genome sequencing projects for *P. apista*. We
 believe there is a lot to learn from the *P. apista* genome. Using both Oxford 
 Nanopore's MinION and Illumina MiSeq, we have set out to produce the first 
 sequenced *P. apista* genome.
+
+### Requirements
+[Poretools @1bb92f6](https://github.com/arq5x/poretools/tree/1bb92f65f44af0cbf0e98729de86642ee9410ee3)
