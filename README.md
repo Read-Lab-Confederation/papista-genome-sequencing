@@ -1,5 +1,4 @@
-Whole genome sequencing of Pandoraea apista 
-==============
+### Whole genome sequencing of *Pandoraea apista* 
 
 *Pandoraea apista* is an emerging cystic fibrosis (CF) pathogen that is a 
 motile, non-spore-forming, non-fermenting, polymyxin-resistant, Gram-negative 
