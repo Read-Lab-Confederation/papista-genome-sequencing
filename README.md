@@ -16,5 +16,8 @@ believe there is a lot to learn from the *P. apista* genome. Using both Oxford
 Nanopore's MinION and Illumina MiSeq, we have set out to produce the first 
 sequenced *P. apista* genome.
 
+### Contact
+Dr. Timothy Read - tread at emory dot edu
+
 ### Requirements
 [Poretools @1bb92f6](https://github.com/arq5x/poretools/tree/1bb92f65f44af0cbf0e98729de86642ee9410ee3)
